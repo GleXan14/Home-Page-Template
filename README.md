@@ -33,7 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Not yet
+- [Live site here](https://glexan14.github.io/Home-Page-Template/)
+- [My Frontend mentor solution here](https://www.frontendmentor.io/solutions/a-newbies-solution-html-css-and-pure-javascript-FAbdqcisC)
+
 
 ## My process
 
