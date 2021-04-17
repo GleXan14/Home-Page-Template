@@ -28,7 +28,7 @@ Users should be able to:
 
 ### My Solution Screenshot
 
-![Design preview for the Loopstudios landing page solution](./design/mine/page.jepg)
+![Design preview for the Loopstudios landing page solution](./design/mine/page.jpeg)
 
 
 ### Links
